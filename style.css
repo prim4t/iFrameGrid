@@ -1,0 +1,50 @@
+
+.button {
+  padding: 0px;
+  line-height: 2;
+  font-family: Impact, Charcoal, sans-serif;
+  font-size: 20px;
+  width: 100%;
+  color: grey;
+  border: 2px grey;
+}
+
+
+p {
+  line-height: 0.5;
+  color: grey;
+  font-family: Impact, Charcoal, sans-serif;
+  font-size: 20px
+}
+
+iframe {
+	border: 0px none; 
+	margin-left: -250px; 
+  margin-right: -150px; 
+	height: 700px;
+	margin-top: -305px; 
+	min-width: 1000px;
+} 
+
+.FRAME {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+	overflow: hidden; 
+	margin: 15px auto; 
+	max-width: 95%;
+	height: 85%; 
+}
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 0px;
+
+}
+.grid-item {
+  background-color: rgba(0, 0, 0, 0.05);
+  border: 3px solid rgba(0, 0, 0, 0.05);
+  padding: 0px;
+  font-size: 30px;
+  text-align: center;
+}
