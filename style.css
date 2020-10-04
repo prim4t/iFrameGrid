@@ -31,7 +31,7 @@ iframe {
 } 
 
 .FRAME {
-  border: 1px solid rgba(0, 0, 0, 0.1);
+  border: 0px solid rgba(0, 0, 0, 0.1);
 	overflow: hidden; 
 	margin: 15px auto; 
 	max-width: 100%;
