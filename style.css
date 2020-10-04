@@ -1,24 +1,37 @@
 
-
-
-.button {
-  padding: 0px;
-  line-height: 2;
-  font-family: Impact, Charcoal, sans-serif;
-  font-size: 20px;
-  width: 100%;
-  background-color: lightgrey;
-  color: grey;
-  border: 0px darkgrey;
-  transition-duration: 0.4s;
+div.menu {
+  position: fixed;
+  bottom: 0%;
+  right: 0%;
+  min-width: auto;
+  padding:10px;
+  background-color: white;
+  border-radius: 25%;
+  border: 0px solid #4054b2;
 }
-.button:hover {background-color: grey;color: white;cursor: pointer;}
+
+/* Fontawesome */
+
+.fa-sync-alt {
+    font-size: 33px;
+    border-radius: 50%;
+    border: 5px solid #4054b2;
+    padding: 10px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: white;
+    color: #4054b2;
+}
+
+.fa-sync-alt:hover {
+    color: white;
+    background-color: #4054b2; 
+}
 
 p {
-  line-height: 0.5;
+  line-height: 0.6;
   color: grey;
-  font-family: Impact, Charcoal, sans-serif;
-  font-size: 15px
+  font-size: calc(15px + .5vw);
 }
 
 iframe {
