@@ -14,7 +14,8 @@ var arrayVariable = [
 'https://www.ebay-kleinanzeigen.de/s-sony-clie-nr70/k0',
 'https://www.ebay-kleinanzeigen.de/s-immobilien/preis:5000:25000/c195',
 'https://www.ebay.de/sch/i.html?_from=R40&_nkw=i9&_sacat=175672&LH_TitleDesc=0&LH_PrefLoc=2&_fsrp=1&_sop=2&_osacat=175672&_dcat=175672&rt=nc&LH_BIN=1',
-'https://www.ebay.de/sch/i.html?_from=R40&_nkw=librem+purism&_sacat=0&rt=nc&LH_ItemCondition=4'
+'https://www.ebay.de/sch/i.html?_from=R40&_nkw=librem+purism&_sacat=0&rt=nc&LH_ItemCondition=4',
+'https://www.ebay-kleinanzeigen.de/s-librem-purism/k0'
 ],
     arrayLength = arrayVariable.length;
 
