@@ -7,7 +7,7 @@ div.menu {
   background-color: #4054b2;
   border-radius: 0% 0% 15px 15px;
   border: 0px solid #4054b2;
-  opacity: 33%;
+  opacity: 100%;
   transition-duration: 0.4s;
 }
 .menu:hover {
