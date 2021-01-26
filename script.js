@@ -15,16 +15,15 @@ var arrayVariable = [
 'https://www.ebay-kleinanzeigen.de/s-notebooks/preis:50:150/ultrabook/k0c278',
 'https://www.ebay-kleinanzeigen.de/s-multimedia-elektronik/preis:100:/razer-blade/k0c161',
 'https://www.ebay-kleinanzeigen.de/s-thinkpad-xd/k0',
+'https://www.ebay-kleinanzeigen.de/s-commodore-pet/k0',
 'https://www.ebay-kleinanzeigen.de/s-multimedia-elektronik/lineage/k0c161',
-'https://www.ebay-kleinanzeigen.de/s-preis:50:/vertu/k0',
-'https://www.ebay-kleinanzeigen.de/s-motorola-aura/k0',
 'https://www.ebay-kleinanzeigen.de/s-sony-clie-nr70/k0',
 'https://www.ebay.de/sch/i.html?_from=R40&_nkw=i9&_sacat=175672&LH_TitleDesc=0&LH_PrefLoc=2&_fsrp=1&_sop=2&_osacat=175672&_dcat=175672&rt=nc&LH_BIN=1',
 'https://www.ebay.de/sch/i.html?_from=R40&_nkw=librem+purism&_sacat=0&rt=nc&LH_ItemCondition=4',
 'https://www.ebay-kleinanzeigen.de/s-librem-purism/k0',
 'https://www.ebay-kleinanzeigen.de/s-sortierung:preis/seite:5/laptop-motherboard/k0',
-'https://www.ebay-kleinanzeigen.de/s-commodore-pet/k0',
-'https://www.ebay.de/sch/m.html?_nkw=&_armrs=1&_ipg=&_from=&_ssn=itsco&_sop=1'
+'https://www.ebay.de/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=Laptop+Motherboard+ryzen+9&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=Laptop+Motherboard+ryzen+7',
+'https://www.ebay.de/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=laptop+mainboard+i9&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=laptop+mainboard'
 ],
     arrayLength = arrayVariable.length;
 
